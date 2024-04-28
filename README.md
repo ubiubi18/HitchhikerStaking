@@ -1,7 +1,5 @@
 # HitchhikerStaking
 
-# IIP-virtualStaking
-
 ### Idena Improvement Proposal (IIP): Implementation of a Liquid Staking Identity for Unvalidated addresses 
 
 **Owner:** ubiubi18  
