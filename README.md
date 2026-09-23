@@ -1,5 +1,9 @@
 # Hitchhiker Identity
 
+## Research disclaimer
+
+This is an experimental research project. I cannot guarantee its security, correctness, or fitness for any purpose. Use it at your own risk, take responsibility for your decisions, independently verify changes, and stay vigilant.
+
 ### Idena Improvement Proposal (IIP): Implementation of a Liquid Staking Identity for Unvalidated addresses 
 
 **Owner:** ubiubi18  
